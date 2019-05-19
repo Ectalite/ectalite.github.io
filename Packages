@@ -15,3 +15,19 @@ Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deeze
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
 Name: Deezelife
 
+Package: com.julioverne.deezelife
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.deezelife_0.5_iphoneos-arm.deb
+Size: 46254
+MD5sum: b28403c64ad363a0cb13f69fecbc84b9
+SHA1: f10f9c62360f5a7dbf21a8599754bc062f84c65b
+SHA256: 96b607ea2137f409d32a74138d815e903bc1224a67ce0385a98a708eaaf148b9
+Section: Tweaks
+Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer App (AppStore)
+Author: julioverne
+Homepage: http://twitter.com/ijulioverne
+Name: Deezelife
+
