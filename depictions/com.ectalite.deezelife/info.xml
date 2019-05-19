@@ -1,0 +1,49 @@
+<package>
+	<id>com.ectalite.deezelife</id>
+	<name>Full Package</name>
+	<version>0.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Hack -> Deezer</shortDescription>
+	<descriptionlist>
+		<description>Hack for Deezer</description>
+		<description>Works good upto Deezer 6.37.1</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Startup</description>
+			<image>deezelife1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Hack your account.</description>
+			<image>deezelife2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Hearing music is good!</description>
+			<image>deezelife3.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>See changelog</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
