@@ -1,0 +1,17 @@
+Package: com.hackyouriphone.deezelife
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: ./debs/com.hackyouriphone.deezelife_0.5.deb
+Size: 46266
+MD5sum: 20911b9c560c2585dc51af0cabe57521
+SHA1: ae9a8d6e680a1b4d7cbdadf63ac394742e9cd5b6
+SHA256: cde1aa3e27f684b586e09ddedd3c682af066031bac962d08c5ae2e6731fc1b8c
+Section: HYI - Tweaks
+Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer App (AppStore)
+Author: julioverne <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
+Name: Deezelife
+
