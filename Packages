@@ -1,9 +1,27 @@
+Package: com.hackyouriphone.betterccxii
+Version: 1.4.8k
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi, cydia.kiiimo.org.betterccxi, org.cydia.kiimo.betterccxiweather
+Filename: debs/com.hackyouriphone.betterccxii_1.4.8k.deb
+Size: 82234
+MD5sum: db2a676b8adb6ec981033cd27938070e
+SHA1: d00b4b79fcad46b75909b46c4803c1ad4e793dcb
+SHA256: 9c9bff3973300cd2ede033dfddf889e46ab6977ca2a49d5823ac9004ef0282e2
+Section: HYI - Tweaks
+Description: Improve your control center on iOS 11 and iOS 12.
+Author: ATWiiks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=betterccxii
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=betterccxii
+Name: BetterCCXI+Weather
+
 Package: com.hackyouriphone.deezelife
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: ./debs/com.hackyouriphone.deezelife_0.5.deb
+Filename: debs/com.hackyouriphone.deezelife_0.5.deb
 Size: 46266
 MD5sum: 20911b9c560c2585dc51af0cabe57521
 SHA1: ae9a8d6e680a1b4d7cbdadf63ac394742e9cd5b6
@@ -15,12 +33,29 @@ Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deeze
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=deezelife
 Name: Deezelife
 
+Package: com.hackyouriphone.weathervane
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: debs/com.hackyouriphone.weathervane_1.2.0.deb
+Size: 9894
+MD5sum: 3e8eeb46a33c3f52d263fa89c8c9e778
+SHA1: 6690012375a458f4f41f418ffad313cd2815d358
+SHA256: bcba79eef5b3c3956ad0146ff825f09d9d82c4310e4d4265f37cca456ac371e6
+Section: HYI - Tweaks
+Description: Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11 and iOS 12
+Author: ATWiiks <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weathervane
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=weathervane
+Name: WeatherVane
+
 Package: com.julioverne.deezelife
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./debs/com.julioverne.deezelife_0.5_iphoneos-arm.deb
+Filename: debs/com.julioverne.deezelife_0.5_iphoneos-arm.deb
 Size: 46254
 MD5sum: b28403c64ad363a0cb13f69fecbc84b9
 SHA1: f10f9c62360f5a7dbf21a8599754bc062f84c65b
