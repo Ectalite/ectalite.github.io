@@ -66,6 +66,54 @@ Author: julioverne
 Homepage: http://twitter.com/ijulioverne
 Name: Deezelife
 
+Package: com.repo.xarold.com.betterccxi
+Version: 1.4.8
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 48928
+MD5sum: cdd917f4eaeceb00a3eaddd726677a25
+SHA1: 962b77788cf6d7cef9fa778d2b17cf45993dcf86
+SHA256: 7b830c8ca881a7e485917dc6fa913c6fa028fca659d7f8c7b18f44d5e9bded6c
+Section: Tweaks
+Description: Enhance your control center on iOS 11 and iOS 12
+Author: ATWiiks
+Depiction: http://repo.xarold.com/depiction.php?id=betterccxi
+Name: BetterCCXI
+
+Package: com.repo.xarold.com.mint4
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Filename: debs/com.repo.xarold.com.mint4_1.0_iphoneos-arm.deb
+Size: 4425334
+MD5sum: d9f618ccc2f67c0e5534807d02c04ba3
+SHA1: b6123604a8c0136d4f83bd5779709dd4ffa3d248
+SHA256: d9c08ab73aeb2f1fe8e0c08beb95516554bba5daafd8d27ae6118326069b35e6
+Section: Themes
+Description: Somehow Even Mintier.
+Author: Ahmad Nagy 
+Depiction: http://repo.xarold.com/depiction.php?id=mint4
+Name: Mint 4
+
+Package: com.repo.xarold.com.ventana
+Version: 1.2k
+Architecture: iphoneos-arm
+Maintainer: Xarold <contact@xarold.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: debs/com.repo.xarold.com.ventana_1.2k_iphoneos-arm.deb
+Size: 1841324
+MD5sum: 4bdbd17c49d1777967f898212663450f
+SHA1: d94dc5b51169b406649ee3bed639d927927e04dc
+SHA256: b27459f207aef7fe8eeeed09636d00eeeda84a84050a9a65cdcb9b75f3ba19ff
+Section: Tweaks
+Description: modern lock screen inspired by Windows 10
+Author: CoolStar & Jeremy Goulet
+Depiction: https://repo.xarold.com/depiction.php?id=ventana
+Icon: file:///Library/PreferenceBundles/MetroLockScreenSettings.bundle/icon-29@2x.png
+Name: Ventana
+
 Package: me.nepeta.libcolorpicker
 Version: 1.6.2-2
 Architecture: iphoneos-arm
