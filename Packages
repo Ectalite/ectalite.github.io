@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi, cydia.kiiimo.org.betterccxi, org.cydia.kiimo.betterccxiweather
-Filename: debs/com.hackyouriphone.betterccxii_1.4.8k.deb
+Filename: ./debs/com.hackyouriphone.betterccxii_1.4.8k.deb
 Size: 82234
 MD5sum: db2a676b8adb6ec981033cd27938070e
 SHA1: d00b4b79fcad46b75909b46c4803c1ad4e793dcb
@@ -21,7 +21,7 @@ Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: debs/com.hackyouriphone.deezelife_0.5.deb
+Filename: ./debs/com.hackyouriphone.deezelife_0.5.deb
 Size: 46266
 MD5sum: 20911b9c560c2585dc51af0cabe57521
 SHA1: ae9a8d6e680a1b4d7cbdadf63ac394742e9cd5b6
@@ -38,7 +38,7 @@ Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate
-Filename: debs/com.hackyouriphone.weathervane_1.2.0.deb
+Filename: ./debs/com.hackyouriphone.weathervane_1.2.0.deb
 Size: 9894
 MD5sum: 3e8eeb46a33c3f52d263fa89c8c9e778
 SHA1: 6690012375a458f4f41f418ffad313cd2815d358
@@ -55,7 +55,7 @@ Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: debs/com.julioverne.deezelife_0.5_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.deezelife_0.5_iphoneos-arm.deb
 Size: 46254
 MD5sum: b28403c64ad363a0cb13f69fecbc84b9
 SHA1: f10f9c62360f5a7dbf21a8599754bc062f84c65b
@@ -71,7 +71,7 @@ Version: 1.4.8
 Architecture: iphoneos-arm
 Maintainer: Xarold <contact@xarold.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
+Filename: ./debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
 Size: 48928
 MD5sum: cdd917f4eaeceb00a3eaddd726677a25
 SHA1: 962b77788cf6d7cef9fa778d2b17cf45993dcf86
@@ -86,7 +86,7 @@ Package: com.repo.xarold.com.mint4
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Xarold <contact@xarold.com>
-Filename: debs/com.repo.xarold.com.mint4_1.0_iphoneos-arm.deb
+Filename: ./debs/com.repo.xarold.com.mint4_1.0_iphoneos-arm.deb
 Size: 4425334
 MD5sum: d9f618ccc2f67c0e5534807d02c04ba3
 SHA1: b6123604a8c0136d4f83bd5779709dd4ffa3d248
@@ -102,7 +102,7 @@ Version: 1.2k
 Architecture: iphoneos-arm
 Maintainer: Xarold <contact@xarold.com>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: debs/com.repo.xarold.com.ventana_1.2k_iphoneos-arm.deb
+Filename: ./debs/com.repo.xarold.com.ventana_1.2k_iphoneos-arm.deb
 Size: 1841324
 MD5sum: 4bdbd17c49d1777967f898212663450f
 SHA1: d94dc5b51169b406649ee3bed639d927927e04dc
@@ -121,7 +121,7 @@ Maintainer: Nepeta
 Depends: firmware (>= 9.0)
 Conflicts: org.thebigboss.libcolorpicker
 Replaces: org.thebigboss.libcolorpicker
-Filename: debs/me.nepeta.libcolorpicker_1.6.2-2_iphoneos-arm.deb
+Filename: ./debs/me.nepeta.libcolorpicker_1.6.2-2_iphoneos-arm.deb
 Size: 104212
 MD5sum: 3aa2d1652571d4e17c938e42aeacfb66
 SHA1: 435e208a8e6fd9cb9ef0c54890cf93aa4737d1f0
@@ -140,7 +140,7 @@ Architecture: iphoneos-arm
 Maintainer: Yanik Magnan <kirbykirbykirby@gmail.com>
 Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)
 Conflicts: net.r-ch.fcsb, com.macciti.fiveirows, com.touchmania.fiveirows, com.touchmania.fiveirowsnorm
-Filename: debs/net.r-ch.iconoclasm-1.11.deb
+Filename: ./debs/net.r-ch.iconoclasm-1.11.deb
 Size: 66130
 MD5sum: 06dcfa29474e0680e5333e7289c36bb5
 SHA1: 63fe58fc9c19b18175903b6721ee274b07a72e98
@@ -157,7 +157,7 @@ Architecture: iphoneos-arm
 Maintainer: Domo
 Depends: 
 Conflicts: ru.domo.cocoatop
-Filename: debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
 Size: 151514
 MD5sum: c30794b242e73c924db279640dc6eee1
 SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
@@ -167,4 +167,20 @@ Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Installed-Size: 742
 Name: CocoaTop
+
+Package: system-memory-reset-fix
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Pwn20wnd
+Depends: mobilesubstrate
+Filename: ./debs/system-memory-reset-fix_2.0_iphoneos-arm.deb
+Size: 6376
+MD5sum: 41f78ac39f387350b2b49f58b7e89cef
+SHA1: c96c0d41409b759476f6d2069ddb1282c474b91a
+SHA256: 79babf9b884b627059f6598f9af9237a28284b6c698ab7e7fcb206e95a2f7413
+Section: System
+Description: Prevent overnight userspace reboots triggered by mmaintenanced
+Author: Pwn20wnd
+Installed-Size: 104
+Name: System Memory Reset Fix
 
